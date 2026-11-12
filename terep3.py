@@ -1,4 +1,4 @@
-"""Launcher kept at the project root for uv and PyInstaller."""
+"""Root launcher for the game and PyInstaller."""
 import sys
 from pathlib import Path
 
