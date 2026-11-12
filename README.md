@@ -1,5 +1,15 @@
 # Terep3
 
+This is a Python re-implementation of Terep2, a historically very significant and excellent program.
+
+Huge respect to the original creator:
+[Terep 2 wikipediea](https://hu.wikipedia.org/wiki/Terep_2).
+
+
+A picture of the current program:
+![Screenshot form the program](assets/screenshot.png)
+
+
 ## Install and run
 
 Install [uv](https://docs.astral.sh/uv/), then run these commands from the
@@ -16,4 +26,3 @@ Place `COL-CLASSIC.png` next to `terep3.py` before running; the game uses it to
 generate the terrain.
 
 
-![Screenshot form the program](assets/screenshot.png)
